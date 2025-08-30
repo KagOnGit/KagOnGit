@@ -1,27 +1,60 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aditya Singh
-=====================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Aditya Singh  
 
-Data Analyst | FinTech Enthusiast | Full-Stack Developer
---------------------------------------------------------
+### Data Analyst | FinTech Enthusiast | Full-Stack Developer  
+*Turning data into insights and ideas into impact.*  
 
-I’m Aditya Singh, a final-year B.Tech Computer Science & Systems Engineering student at KIIT University (Graduating 2026), passionate about data, finance, and technology.
+---
 
-Over the past few years, I’ve built hands-on experience in \*\*data analytics, visualization, and full-stack development\*\*, completing projects and internships where I:
+## 👤 About Me  
+I am a **final-year B.Tech Computer Science & Systems Engineering student at KIIT University (Graduating 2026)** with a strong focus on **data analytics, fintech, and full-stack development**.  
 
-\- Optimized SQL pipelines and reduced reporting runtime by 15% during my internship at Sukrit Technologies.
+Through internships and projects, I’ve built practical experience in **data pipelines, visualization, and AI-driven finance applications**:  
+- At **Sukrit Technologies**, I optimized SQL pipelines and reduced reporting runtime by 15%.  
+- As part of the **NUS Global Immersion Program**, I conducted exploratory data analysis and designed Tableau dashboards.  
+- Independently, I’ve deployed projects like **DealLens AI (AI-powered M&A screener)** and a **Financial Market Intelligence Dashboard** inspired by Bloomberg Terminal UIs.  
 
-\- Conducted exploratory data analysis and built Tableau dashboards as part of the NUS Global Immersion Program.
+I’m preparing for **CFA Level 1 (Feb 2026)** and seeking opportunities in **data analytics, investment banking technology, or fintech product roles**.  
 
-\- Designed and deployed personal projects like \*\*DealLens AI (AI-powered M&A screener)\*\* and a \*\*Financial Market Intelligence Dashboard\*\* inspired by Bloomberg Terminal UIs.
+---
 
-My technical toolkit includes \*\*Python, SQL, Power BI, Tableau, Next.js, and Streamlit\*\*, with strong foundations in databases, cloud, and modern web stacks. I enjoy combining technical and financial knowledge to deliver actionable insights and create tools that solve real-world problems.
+## 🛠️ Skills  
+**Programming & Data**: Python · SQL · Pandas · NumPy  
+**Analytics & Visualization**: Power BI · Tableau · Streamlit  
+**Web & Full-Stack**: Next.js · React · TypeScript · Prisma · TailwindCSS  
+**Databases & Infra**: PostgreSQL · Supabase · Meilisearch · Redis · Docker  
+**Other Tools**: Git/GitHub · Figma · Notion · Sentry · PostHog  
 
-Currently, I’m preparing for CFA Level 1 (Feb 2026) while working on AI-driven analytics and fintech products. My goal is to grow as a Data Analyst/FinTech Engineer, bridging the gap between business impact and technology.
+---
 
-* 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio at [MyPortfolio](http://addysportfolio.vercel.app)
-* ✉️  You can contact me at [adityasingh0929@gmail.com](mailto:adityasingh0929@gmail.com)
-* 🚀  I'm currently working on [DealLens AI → AI-powered M&A Screener for investment banking](http://deallensai.vercel.app)
-* 🧠  I'm currently learning Next.js 15, Prisma, and advanced SQL for fintech analytics
-* 👥  I'm looking to collaborate on AI-powered fintech & data analytics projects
-* 💬  Ask me about Anime + Data = my happy place
+## 🚀 Featured Projects  
+- **[DealLens AI](http://deallensai.vercel.app/)** – AI-powered M&A screener automating investment banking workflows (NLP on filings, ratio analysis, synergy detection).  
+- **[Financial Market Dashboard](https://github.com/KagOnGit/finance-dashboard)** – Bloomberg-style analytics platform with real-time market data and visualization.  
+- **[Portfolio Optimization & Risk Evaluation](https://github.com/KagOnGit/Portfolio-Optimization-and-Risk-Evaluation)** – Web app integrating FRED, Alpha Vantage, SEC EDGAR for portfolio strategies.  
+- **[Portfolio Website](http://addysportfolio.vercel.app/)** – Interactive portfolio site showcasing projects, skills, and experiences.  
+
+---
+
+## 🎓 Education & Experience  
+- **KIIT University, Bhubaneswar** – B.Tech CSSE (2022–2026)  
+- **Intern, Sukrit Technologies** – Optimized SQL & reporting workflows (2023)  
+- **NUS Global Immersion Program (Singapore)** – Data analytics & dashboarding (2024)  
+
+---
+
+## 📜 Certifications & Achievements  
+- Coursera – Yale *Financial Markets*  
+- Coursera – *AI for Everyone*  
+- NUS GiP Provisional Internship Certificate  
+- CFA Level 1 Candidate (Feb 2026)  
+
+---
+
+## 🤝 Let’s Connect  
+- 💼 LinkedIn: [linkedin.com/in/aditya-singh-9b1193261](https://linkedin.com/in/aditya-singh-9b1193261)  
+- 🌐 Portfolio: [addysportfolio.vercel.app](http://addysportfolio.vercel.app)  
+- 📧 Email: [adityasingh0929@gmail.com](mailto:adityasingh0929@gmail.com)  
+- 🐙 GitHub: [github.com/KagOnGit](https://github.com/KagOnGit)  
+
+---
+
+✨ *“Turning data into insights, and insights into impact.”*  
