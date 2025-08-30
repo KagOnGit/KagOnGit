@@ -43,11 +43,11 @@ I’m preparing for **CFA Level 1 (Feb 2026)** and seeking opportunities in **da
 
 ---
 
-## 📜 Certifications & Achievements  
-- Coursera – Yale *Financial Markets*  
-- Coursera – *AI for Everyone*  
-- NUS GiP Provisional Internship Certificate  
-- CFA Level 1 Candidate (Feb 2026)  
+## 📜 Certifications  
+- **Business Analytics for Decision Making** – University of Colorado Boulder (2025)  
+- **AI-Powered Business Analytics (Intermediate)** – National University of Singapore (2025)  
+- **Strategy and Game Theory for Management** – IIM Ahmedabad (2025)  
+- **CFA Level 1 Candidate (Feb 2026)**  
 
 ---
 
