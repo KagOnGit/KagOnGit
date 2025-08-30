@@ -1,5 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Aditya Singh  
 
+
 ### Data Analyst | FinTech Enthusiast | Full-Stack Developer  
 *Turning data into insights and ideas into impact.*  
 
@@ -9,9 +10,9 @@
 I am a **final-year B.Tech Computer Science & Systems Engineering student at KIIT University (Graduating 2026)** with a strong focus on **data analytics, fintech, and full-stack development**.  
 
 Through internships and projects, I’ve built practical experience in **data pipelines, visualization, and AI-driven finance applications**:  
-- At **Sukrit Technologies**, I optimized SQL pipelines and reduced reporting runtime by 15%.  
-- As part of the **NUS Global Immersion Program**, I conducted exploratory data analysis and designed Tableau dashboards.  
-- Independently, I’ve deployed projects like **DealLens AI (AI-powered M&A screener)** and a **Financial Market Intelligence Dashboard** inspired by Bloomberg Terminal UIs.  
+- ⚡ **Optimized SQL pipelines** and reduced reporting runtime by 15% during my internship at **Sukrit Technologies**.  
+- 📊 Conducted **exploratory data analysis** and built **Tableau dashboards** during the **NUS Global Immersion Program**.  
+- 🚀 Built projects like **[DealLens AI](http://deallensai.vercel.app/)** (AI-powered M&A screener) and a **Financial Market Intelligence Dashboard** inspired by Bloomberg Terminal UIs.  
 
 I’m preparing for **CFA Level 1 (Feb 2026)** and seeking opportunities in **data analytics, investment banking technology, or fintech product roles**.  
 
@@ -36,6 +37,7 @@ I’m preparing for **CFA Level 1 (Feb 2026)** and seeking opportunities in **da
 
 ## 🎓 Education & Experience  
 - **KIIT University, Bhubaneswar** – B.Tech CSSE (2022–2026)  
+- **Modern School, Barakhamba Road, New Delhi** – High School (Completed 2022)  
 - **Intern, Sukrit Technologies** – Optimized SQL & reporting workflows (2023)  
 - **NUS Global Immersion Program (Singapore)** – Data analytics & dashboarding (2024)  
 
