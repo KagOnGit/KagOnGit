@@ -29,7 +29,6 @@ I’m preparing for **CFA Level 1 (Feb 2026)** and seeking opportunities in **da
 
 ## 🚀 Featured Projects  
 - **[DealLens AI](http://deallensai.vercel.app/)** – AI-powered M&A screener automating investment banking workflows (NLP on filings, ratio analysis, synergy detection).  
-- **[Financial Market Dashboard](https://github.com/KagOnGit/finance-dashboard)** – Bloomberg-style analytics platform with real-time market data and visualization.  
 - **[Portfolio Optimization & Risk Evaluation](https://github.com/KagOnGit/Portfolio-Optimization-and-Risk-Evaluation)** – Web app integrating FRED, Alpha Vantage, SEC EDGAR for portfolio strategies.  
 - **[Portfolio Website](http://addysportfolio.vercel.app/)** – Interactive portfolio site showcasing projects, skills, and experiences.  
 
