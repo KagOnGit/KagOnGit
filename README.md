@@ -12,7 +12,7 @@ I am a **final-year B.Tech Computer Science & Systems Engineering student at KII
 Through internships and projects, I’ve built practical experience in **data pipelines, visualization, and AI-driven finance applications**:  
 - ⚡ **Optimized SQL pipelines** and reduced reporting runtime by 15% during my internship at **Sukrit Technologies**.  
 - 📊 Conducted **exploratory data analysis** and built **Tableau dashboards** during the **NUS Global Immersion Program**.  
-- 🚀 Built projects like **[DealLens AI](http://deallensai.vercel.app/)** (AI-powered M&A screener) and a **Financial Market Intelligence Dashboard** inspired by Bloomberg Terminal UIs.  
+- 🚀 Built projects like **[DealLens AI](http://deallensai.vercel.app/)** (AI-powered M&A screener), a **[Portfolio Optimizer & Risk Evaluation](https://portfolio-optimizer-nine.vercel.app/)** web app, and a **Financial Market Intelligence Dashboard** inspired by Bloomberg Terminal UIs.  
 
 I’m preparing for **CFA Level 1 (Feb 2026)** and seeking opportunities in **data analytics, investment banking technology, or fintech product roles**.  
 
