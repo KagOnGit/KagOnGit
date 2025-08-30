@@ -47,7 +47,9 @@ Currently preparing for **CFA Level 1 (Feb 2026)** while developing **AI-driven 
 <a href="https://github.com/KagOnGit" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
 <a href="https://x.com/AddyTriesX" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/aditya-singh-9b1193261/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-<a href="http://addysportfolio.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" width="32" height="32" alt="Portfolio" /></a>
+<a href="http://addysportfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
