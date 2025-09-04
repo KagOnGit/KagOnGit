@@ -60,6 +60,7 @@ Currently preparing for **CFA Level 1 (Feb 2026)** while building **AI-driven fi
 ---
 
 ## 🌐 Connect With Me  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="aditya-singh-9b1193261" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aditya-singh-9b1193261?trk=profile-badge">Aditya Singh</a></div>
 
 <p align="center">
 <a href="https://github.com/KagOnGit" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
